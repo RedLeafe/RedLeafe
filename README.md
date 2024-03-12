@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RedLeafe/RedLeafe/blob/main/Assests/photoshopAnimation.gif?raw=true" alt="Hi, Hello, I'm Ryan 👋">
+  <img src="https://github.com/RedLeafe/RedLeafe/blob/main/Assests/NameAnimation.gif?raw=true" alt="Hi, Hello, I'm Ryan 👋">
 </p>
 
 ## Student at Cal Poly Pomona | Passionate in CyberSecurity and Software Engineering
