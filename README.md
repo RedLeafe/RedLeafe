@@ -4,9 +4,9 @@
 
 ## Student at Cal Poly Pomona | Passionate in CyberSecurity and Software Engineering
 
-- **Experience** with: Java, C#, Python, MIPS Assembly | Wireshark, Burp Suite, Ghidra
+- **Experience** with: Java, C#, Python, MIPS Assembly | Wireshark, Burp Suite, Ghidra, Apache/Nginx, Bind9
 
-- Junior Board Member in [Students With an Interest In Future Technology (SWIFT)](https://www.calpolyswift.org/) at CPP
+- Director of Academy for [Students With an Interest In Future Technology (SWIFT)](https://www.calpolyswift.org/) at CPP
 
 ## Contact Me
 
