@@ -10,4 +10,4 @@
 
 ## Contact Me
 
-Email: [rtmiller@cpp.edu](mailto:rtmiller@cpp.edu) - Linkedin: [https://www.linkedin.com/in/ryan-miller/](https://www.linkedin.com/in/ryan-miller-460578272/) - Discord: tid_redleaf
+Email: [rtmiller@cpp.edu](mailto:rtmiller@cpp.edu) - Linkedin: [https://www.linkedin.com/in/-ryan-miller/](https://www.linkedin.com/in/-ryan-miller/) - Discord: tid_redleaf
