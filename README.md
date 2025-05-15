@@ -2,7 +2,7 @@
 
 ## Student at Cal Poly Pomona | Incoming Security Intern at Capital One
 
-- **Experience** with: Java, C#, Python, MIPS Assembly | Wireshark, Burp Suite, Ghidra, Apache/Nginx, Bind9
+- **Experience** with: Python, Java, C, C#, MIPS Assembly | Wireshark, Burp Suite, Ghidra, Apache/Nginx, Bind9
 
 - Director of Academy for [Students With an Interest In Future Technology (SWIFT)](https://www.calpolyswift.org/) at CPP
 
